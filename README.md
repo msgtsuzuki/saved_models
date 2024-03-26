@@ -7,3 +7,4 @@
 - Tutorial 5: [Transformers and Multi-Head Attention](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial5/Tutorial05-N.ipynb)
 - Tutorial 6: [Graph Neural Networks](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial6/Tutorial06-N.ipynb)
 - Tutorial 7: [Deep Energy-Based Generative Models](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial7/Tutorial07-N.ipynb)
+- Tutorial 8: [Deep Autoencoders](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial8/Tutorial08-N.ipynb)
