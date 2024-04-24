@@ -9,3 +9,4 @@
 - Tutorial 7: [Deep Energy-Based Generative Models](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial07/Tutorial07-N.ipynb)
 - Tutorial 8: [Deep Autoencoders](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial08/Tutorial08-N.ipynb)
 - Tutorial 9: [Adversarial Attacks](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial09/Tutorial09-N.ipynb)
+- Tutorial 10: [Normalizing Flows for Image Modeling](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial10/Tutorial10-N.ipynb)
