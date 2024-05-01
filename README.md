@@ -10,3 +10,5 @@
 - Tutorial 8: [Deep Autoencoders](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial08/Tutorial08-N.ipynb)
 - Tutorial 9: [Adversarial Attacks](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial09/Tutorial09-N.ipynb)
 - Tutorial 10: [Normalizing Flows for Image Modeling](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial10/Tutorial10-N.ipynb)
+- Tutorial 11: [Autoregressive Image Modeling](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial11/Tutorial11-N.ipynb)
+- Tutorial 12: [Vision Transformers](https://github.com/msgtsuzuki/saved_models/blob/main/tutorial12/Tutorial12-N.ipynb)
